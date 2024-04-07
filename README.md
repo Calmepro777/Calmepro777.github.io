@@ -13,8 +13,8 @@
 
 
 ## Rewards
-<a href="https://cexplorer.io/" target="_blank"><img width="" class="img-fluid" src="https://js.cexplorer.io/img/award/a9a26f49ef308ca450daa6f1e1533f.png" alt=""></a>
-<a href="https://cexplorer.io/" target="_blank"><img width="" class="img-fluid" src="https://js.cexplorer.io/img/award/534025f40c4e1e0f1a8077da96e5ae.png" alt=""></a>
+<a href="https://cexplorer.io/" target="_blank"><img width="200" class="img-fluid" src="https://js.cexplorer.io/img/award/a9a26f49ef308ca450daa6f1e1533f.png" alt=""></a>
+<a href="https://cexplorer.io/" target="_blank"><img width="200" class="img-fluid" src="https://js.cexplorer.io/img/award/534025f40c4e1e0f1a8077da96e5ae.png" alt=""></a>
 
 ## Statistics
 <iframe width="500" height="320" frameborder="0" src="https://img.cexplorer.io/w/widget.html?pool=pool1fcgm2ae0j3rmvghwa2064rfxcvugwa2qt89cc4jwtj0ecgh8na8&theme=light"><a href="https://cexplorer.io/pool/pool1fcgm2ae0j3rmvghwa2064rfxcvugwa2qt89cc4jwtj0ecgh8na8">pool detail on cexplorer.io</a></iframe>
