@@ -4,7 +4,7 @@
 
 <a target="_blank" href="https://cexplorer.io/pool/pool1fcgm2ae0j3rmvghwa2064rfxcvugwa2qt89cc4jwtj0ecgh8na8/delegate#instant" style="padding:10px;padding-left:20px;border-radius:11px; font: normal bold 22px/1 'Open Sans', sans-serif; color:white;text-align: center;background:url('https://img.cexplorer.io/s/ada.svg') no-repeat #15d798 10px;padding-left:40px"> Delegate</a>
 
-## Promotion
+## PROMOTION
 Delegators with staking amount of 50K-100K ADA is will get extra bonus for 5-10 ADA per epoch minted.
 
 ## NEWS
