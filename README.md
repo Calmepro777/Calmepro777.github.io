@@ -8,8 +8,9 @@
 Delegators with staking amount of 50K-100K ADA is will get extra bonus for 5-10 ADA per minted epoch.
 
 ## NEWS
-* 📢 **Jun 26, 2024**  Additional relay node alive
-* 📢 **May 04, 2024**  [CSPHD] Premium ADA Stake Pool reaches 100k stake
+* 📢 **Jul 07, 2024**  Third block minted!
+* 📢 **Jun 26, 2024**  Additional relay node alive!
+* 📢 **May 04, 2024**  [CSPHD] Premium ADA Stake Pool reaches 100k stake!
 * 📢 **Apr 19, 2024**  Second block minted!
 * 📢 **Apr 07, 2024**  First block minted!
 * 🚀 **Jan 15, 2024**  [CSPHD] Premium ADA Stake Pool is active now!
