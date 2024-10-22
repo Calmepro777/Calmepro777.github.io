@@ -8,6 +8,7 @@
 Delegators with staking amount of 50K-100K ADA is will get extra bonus for 5-10 ADA per minted epoch.
 
 ## NEWS
+* 📢 **Oct 21, 2024**  Tenth block minted!
 * 📢 **Oct 01, 2024**  Ninth block minted!
 * 📢 **Aug 22, 2024**  Eighth block minted!
 * 📢 **Aug 16, 2024**  Seventh block minted!
@@ -31,6 +32,7 @@ Delegators with staking amount of 50K-100K ADA is will get extra bonus for 5-10 
 <a href="https://cexplorer.io/" target="_blank"><img width="200" class="img-fluid" src="https://js.cexplorer.io/img/award/534025f40c4e1e0f1a8077da96e5ae.png" alt=""></a>
 <a href="https://cexplorer.io/" target="_blank"><img width="200" class="img-fluid" src="https://js.cexplorer.io/img/award/2a6512d11e6119d41df7a0f88f9dcb.png" alt=""></a>
 <a href="https://cexplorer.io/" target="_blank"><img width="200" class="img-fluid" src="https://js.cexplorer.io/img/award/bc9f4a578d79564068806beb43f8b1.png" alt=""></a>
+<a href="https://cexplorer.io/" target="_blank"><img width="200" class="img-fluid" src="https://js.cexplorer.io/img/award/03c4720ab5b11a8eef758f125e93be.png" alt=""></a>
 
 ## Statistics
 <iframe width="500" height="320" frameborder="0" src="https://img.cexplorer.io/w/widget.html?pool=pool1fcgm2ae0j3rmvghwa2064rfxcvugwa2qt89cc4jwtj0ecgh8na8&theme=light"><a href="https://cexplorer.io/pool/pool1fcgm2ae0j3rmvghwa2064rfxcvugwa2qt89cc4jwtj0ecgh8na8">pool detail on cexplorer.io</a></iframe>
