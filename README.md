@@ -27,7 +27,7 @@ Delegators with staking amount of 50K-100K ADA is will get extra bonus for 5-10 
 * 🧲 [Pool Statistics](https://cexplorer.io/pool/pool1fcgm2ae0j3rmvghwa2064rfxcvugwa2qt89cc4jwtj0ecgh8na8/rewards#data)
 
 
-## Rewards
+## Awards
 <a href="https://cexplorer.io/" target="_blank"><img width="200" class="img-fluid" src="https://js.cexplorer.io/img/award/a9a26f49ef308ca450daa6f1e1533f.png" alt=""></a>
 <a href="https://cexplorer.io/" target="_blank"><img width="200" class="img-fluid" src="https://js.cexplorer.io/img/award/534025f40c4e1e0f1a8077da96e5ae.png" alt=""></a>
 <a href="https://cexplorer.io/" target="_blank"><img width="200" class="img-fluid" src="https://js.cexplorer.io/img/award/2a6512d11e6119d41df7a0f88f9dcb.png" alt=""></a>
