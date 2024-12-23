@@ -8,6 +8,7 @@
 Delegators with staking amount of 50K-100K ADA is will get extra bonus for 5-10 ADA per minted epoch.
 
 ## NEWS
+* 📢 **Dec 23, 2024**  Twelfth block minted!
 * 📢 **Dec 01, 2024**  Eleventh block minted!
 * 📢 **Oct 21, 2024**  Tenth block minted!
 * 📢 **Oct 01, 2024**  Ninth block minted!
