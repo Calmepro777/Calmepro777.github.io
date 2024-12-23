@@ -9,8 +9,6 @@ Delegators with staking amount of 50K-100K ADA is will get extra bonus for 5-10 
 
 ## NEWS
 
-<details>
-<summary>Click to expand</summary>
 <div style="height: 300px; overflow-y: auto;">
   
 * 📢 **Dec 23, 2024**  Twelfth block minted!
@@ -30,7 +28,7 @@ Delegators with staking amount of 50K-100K ADA is will get extra bonus for 5-10 
 * 🚀 **Jan 13, 2024**  [CSPHD] Premium ADA Stake Pool online!
   
 </div>
-</details>
+
 
 ## References
 
