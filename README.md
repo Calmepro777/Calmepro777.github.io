@@ -9,23 +9,25 @@ Delegators with staking amount of 50K-100K ADA is will get extra bonus for 5-10 
 
 ## NEWS
 
-<div style="max-height: 300px; overflow-y: auto; border: 1px solid black; padding: 10px;">
+<div style="max-height: 100px; overflow-y: auto; border: 1px solid black; padding: 10px;">
 
-* 📢 **Dec 23, 2024**  Twelfth block minted!
-* 📢 **Dec 01, 2024**  Eleventh block minted!
-* 📢 **Oct 21, 2024**  Tenth block minted!
-* 📢 **Oct 01, 2024**  Ninth block minted!
-* 📢 **Aug 22, 2024**  Eighth block minted!
-* 📢 **Aug 16, 2024**  Seventh block minted!
-* 🚀 **Aug 02, 2024**  Two blocks minted in one epoch for the first time! At epoch 500! 
-* 📢 **Jul 10, 2024**  Forth block minted, the first block minted by the pool in voltair era!
-* 📢 **Jul 07, 2024**  Third block minted!
-* 📢 **Jun 26, 2024**  Additional relay node alive!
-* 📢 **May 04, 2024**  [CSPHD] Premium ADA Stake Pool reaches 100k stake!
-* 📢 **Apr 19, 2024**  Second block minted!
-* 📢 **Apr 07, 2024**  First block minted!
-* 🚀 **Jan 15, 2024**  [CSPHD] Premium ADA Stake Pool is active now!
-* 🚀 **Jan 13, 2024**  [CSPHD] Premium ADA Stake Pool online!
+<ul>
+  <li>📢 <strong>Dec 23, 2024</strong> Twelfth block minted!</li>
+  <li>📢 <strong>Dec 01, 2024</strong> Eleventh block minted!</li>
+  <li>📢 <strong>Oct 21, 2024</strong> Tenth block minted!</li>
+  <li>📢 <strong>Oct 01, 2024</strong> Ninth block minted!</li>
+  <li>📢 <strong>Aug 22, 2024</strong> Eighth block minted!</li>
+  <li>📢 <strong>Aug 16, 2024</strong> Seventh block minted!</li>
+  <li>🚀 <strong>Aug 02, 2024</strong> Two blocks minted in one epoch for the first time! At epoch 500!</li>
+  <li>📢 <strong>Jul 10, 2024</strong> Forth block minted, the first block minted by the pool in voltair era!</li>
+  <li>📢 <strong>Jul 07, 2024</strong> Third block minted!</li>
+  <li>📢 <strong>Jun 26, 2024</strong> Additional relay node alive!</li>
+  <li>📢 <strong>May 04, 2024</strong> [CSPHD] Premium ADA Stake Pool reaches 100k stake!</li>
+  <li>📢 <strong>Apr 19, 2024</strong> Second block minted!</li>
+  <li>📢 <strong>Apr 07, 2024</strong> First block minted!</li>
+  <li>🚀 <strong>Jan 15, 2024</strong> [CSPHD] Premium ADA Stake Pool is active now!</li>
+  <li>🚀 <strong>Jan 13, 2024</strong> [CSPHD] Premium ADA Stake Pool online!</li>
+</ul>
 
 </div>
 
