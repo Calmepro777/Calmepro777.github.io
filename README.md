@@ -9,7 +9,7 @@ Delegators with staking amount of 50K-100K ADA is will get extra bonus for 5-10 
 
 ## NEWS
 
-<div style="max-height: 100px; overflow-y: auto; border: 1px solid black; padding: 10px;">
+<div style="max-height: 200px; overflow-y: auto; border: 1px solid black; padding: 10px;">
 
 <ul>
   <li>📢 <strong>Dec 23, 2024</strong> Twelfth block minted!</li>
