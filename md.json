@@ -3,5 +3,6 @@
 "name": "Premium ADA Stake Pool",
 "description": "An ADA stake pool operated by a CS PhD student who is a fan of Cardano network",
 "ticker": "CSPHD", 
-"homepage": "https://calmepro777.github.io/"
+"homepage": "https://calmepro777.github.io/",
+"extended": "https://calmepro777.github.io/extended_metadata.json"
 }
