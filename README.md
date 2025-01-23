@@ -12,7 +12,10 @@ Delegators with staking amount of 50K-100K ADA is will get extra bonus for 5-10 
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid black; padding: 10px;">
 
 <ul>
-  <li>🥳 <strong>Jan 3, 2025</strong> Twelve blocks minted in 2024! Keep going in 2025!</li>
+  <li>🥳 <strong>Jan 23, 2025</strong> [CSPHD] Premium ADA Stake Pool becomes a member of Cardano Single Pool Alliance (CSPA)!</li>
+  <li>📢 <strong>Jan 20, 2025</strong> 14th block minted!</li>
+  <li>📢 <strong>Jan 17, 2025</strong> 13th block minted!</li>
+  <li>🥳 <strong>Jan 03, 2025</strong> Twelve blocks minted in 2024! Keep going in 2025!</li>
   <li>📢 <strong>Dec 23, 2024</strong> Twelfth block minted!</li>
   <li>📢 <strong>Dec 01, 2024</strong> Eleventh block minted!</li>
   <li>📢 <strong>Oct 21, 2024</strong> Tenth block minted!</li>
