@@ -8,6 +8,7 @@
 
 ## PROMOTION
 Use a Ledger device to secure your digital asset, [get up to $70 BTC reward](https://shop.ledger.com/?r=9f279d8da2e1)
+
 Delegators with staking amount of 50K-100K ADA is will get extra bonus for 5-10 ADA per minted epoch.
 
 ## NEWS
