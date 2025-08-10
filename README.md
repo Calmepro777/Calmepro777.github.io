@@ -16,7 +16,7 @@ Delegators with staking amount of 50K-100K ADA is will get extra bonus for 5-10 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid black; padding: 10px;">
 
 <ul>
-  <li>📢 <strong>Aug 09, 2025</strong> Margin fee reduced from 2.5% to 1.8%, pledge increased from 45K to 50K </li>
+  <li>📢 <strong>Aug 09, 2025</strong> Margin fee reduced from 2.5% to 1.8%, pledge increased from 45K to 50K 🚀🚀</li>
   <li>📢 <strong>Aug 06, 2025</strong> 26th block minted!</li>
   <li>📢 <strong>Jul 10, 2025</strong> [CSPHD] Premium ADA Stake Pool minted block in three consecutive epochs🚀🚀 </li>
   <li>📢 <strong>Jul 10, 2025</strong> 25th block minted!</li>
