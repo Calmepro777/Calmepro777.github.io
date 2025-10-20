@@ -16,6 +16,7 @@ Delegators with staking amount of 50K-100K ADA is will get extra bonus for 5-10 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid black; padding: 10px;">
 
 <ul>
+  <li>📢 <strong>Oct 16, 2025</strong> 32nd block minted!</li>
   <li>📢 <strong>Oct 06, 2025</strong> 30th and 31st blocks minted!</li>
   <li>📢 <strong>Sept 21, 2025</strong> 29th block minted!</li>
   <li>📢 <strong>Aug 20, 2025</strong> 28th block minted!</li>
