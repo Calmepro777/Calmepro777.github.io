@@ -16,6 +16,7 @@ Delegators with staking amount of 50K-100K ADA is will get extra bonus for 5-10 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid black; padding: 10px;">
 
 <ul>
+  <li>📢 <strong>Dec 13, 2025</strong> 37th block minted! Much appreviated XspoAlliance's support!🤝 </li>
   <li>📢 <strong>As a member of XspoAlliance and being enrolled in rotating delegation, it is now [CSPHD] Premium ADA Stake Pool's turn!!🥳 Huge thanks to all participating pool operators and benevolent delegators🤝🤝</li>
   <li>📢 <strong>Nov 28, 2025</strong> 36th block minted!</li>
   <li>📢 <strong>Nov 21, 2025</strong> 35th block minted!</li>
