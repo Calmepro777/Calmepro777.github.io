@@ -16,6 +16,7 @@ Delegators with staking amount of 50K-100K ADA is will get extra bonus for 5-10 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid black; padding: 10px;">
 
 <ul>
+  <li>📢 <strong>Jan 14, 2026</strong> 41th (ep607) block minted!</li>
   <li>📢 <strong>Jan 05, 2026</strong> 40th (ep605) block minted! First block minted by the pool in 2026! </li>
   <li>📢 <strong>Dec 20, 2025</strong> 38th (ep601) and 39th (ep602) block minted! Much appreviated XspoAlliance's support!🤝 </li>
   <li>📢 <strong>Dec 13, 2025</strong> 37th block minted! Much appreviated XspoAlliance's support!🤝 </li>
