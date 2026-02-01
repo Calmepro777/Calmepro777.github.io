@@ -16,6 +16,7 @@ Delegators with staking amount of 50K-100K ADA is will get extra bonus for 5-10 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid black; padding: 10px;">
 
 <ul>
+  <li>📢 <strong>Feb 01, 2026</strong> 2 blocks minted in ep610, number of lifetime minted blocks is 44 till now!</li>
   <li>📢 <strong>Jan 25, 2026</strong> 42th (ep609) block minted!</li>
   <li>📢 <strong>Jan 14, 2026</strong> 41th (ep607) block minted!</li>
   <li>📢 <strong>Jan 05, 2026</strong> 40th (ep605) block minted! First block minted by the pool in 2026! </li>
