@@ -1,0 +1,35 @@
+title: "[CSPHD] Premium ADA Stake Pool"
+description: "Investment insights, Cardano education, and the case for decentralization — from a small stake pool operator."
+url: "https://calmepro777.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# SEO
+author:
+  name: "CSPHD"
+
+# Blog settings
+permalink: /blog/:year/:month/:title/
+paginate: 10
+
+# Exclude files from build
+exclude:
+  - md.json
+  - extended_metadata.json
+  - README.md
+  - LICENSE
+
+# Collections
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+      author: "CSPHD"
