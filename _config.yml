@@ -19,9 +19,12 @@ permalink: /blog/:year/:month/:title/
 paginate: 10
 
 # Exclude files from build
+# NOTE: md.json and extended_metadata.json must NOT be excluded — they are the
+# Cardano pool metadata files served at the on-chain-registered URLs
+# (https://calmepro777.github.io/md.json + extended_metadata.json). Excluding
+# them makes Jekyll drop them from the build → 404 → pool.pm/SMASH can't resolve
+# the pool. They have no front matter, so Jekyll copies them verbatim (hash-safe).
 exclude:
-  - md.json
-  - extended_metadata.json
   - README.md
   - LICENSE
 
