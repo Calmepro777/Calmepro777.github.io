@@ -21,6 +21,19 @@ Delegators with staking amount of 50K-100K ADA will get extra bonus for 5-10 ADA
 
 <div style="max-height: 350px; overflow-y: auto; border: 1px solid black; padding: 10px;">
 <ul>
+  <li><strong>Jul 20, 2026</strong> 60th (ep644) block minted! 60 lifetime blocks and counting — thank you to all delegators.</li>
+  <li><strong>Jul 12, 2026</strong> 59th (ep642) block minted!</li>
+  <li><strong>Jul 04, 2026</strong> 58th (ep641) block minted!</li>
+  <li><strong>Jun 25, 2026</strong> 57th (ep639) block minted!</li>
+  <li><strong>Jun 20, 2026</strong> 56th (ep638) block minted!</li>
+  <li><strong>Jun 14, 2026</strong> 55th (ep637) block minted!</li>
+  <li><strong>May 27, 2026</strong> 54th (ep633) block minted!</li>
+  <li><strong>May 23, 2026</strong> 53rd (ep632) block minted!</li>
+  <li><strong>May 14, 2026</strong> 52nd (ep630) block minted!</li>
+  <li><strong>May 12, 2026</strong> 51st (ep630) block minted!</li>
+  <li><strong>May 02, 2026</strong> 50th (ep628) block minted! 50 lifetime blocks reached.</li>
+  <li><strong>Apr 26, 2026</strong> 49th (ep627) block minted!</li>
+  <li><strong>Apr 20, 2026</strong> 48th (ep626) block minted!</li>
   <li><strong>Apr 15, 2026</strong> 47th (ep625) block minted!</li>
   <li><strong>Mar 24, 2026</strong> 46th (ep622) block minted!</li>
   <li><strong>Mar 24, 2026</strong> 45th (ep620) block minted!</li>
